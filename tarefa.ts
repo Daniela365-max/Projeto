@@ -35,7 +35,7 @@ function listarUsuarios(): void {
 }
 
 // ======= Testes (cadastre alguns usuários de exemplo) =======
-cadastrarUsuario({ nome: "Ana Souza",   email: "ana@example.com",   idade: 28, status: true  });
+cadastrarUsuario({ nome: "Daniela Marçal do Santos",   email: "dannymarcal2014@gmail.com",   idade: 27, status: true  });
 cadastrarUsuario({ nome: "Carlos Lima", email: "carlos@example.com", idade: 34, status: false });
 cadastrarUsuario({ nome: "Rita Reis",   email: "rita@example.com",   idade: 19, status: true  });
 
